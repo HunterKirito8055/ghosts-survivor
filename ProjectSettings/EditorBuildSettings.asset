@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Menu.unity
+    guid: 635824efea015d8468b08e774d33c1f2
+  - enabled: 1
+    path: Assets/Scenes/Halloween.unity
+    guid: 81610a67deff4e2419d260f51c4edaca
+  - enabled: 1
+    path: Assets/Scenes/Daylight Forest.unity
+    guid: 0162b1be0a05a324cb624f2902a9e91b
+  - enabled: 1
+    path: Assets/Scenes/Dark Swamp.unity
+    guid: 4cf98b93b8e832549af713da3c3d175f
+  - enabled: 1
+    path: Assets/Scenes/Game Dungeon W.unity
+    guid: 1e3f1e4d6b5890345ae82da946ac5c21
+  - enabled: 1
+    path: Assets/Scenes/Winter Forest.unity
+    guid: 32a4cd8ea3a39d94295568f0b22c0e52
   m_configObjects: {}
