@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67d92242723a00449903ffa16a0afe43, type: 3}
+  m_Name: New Enemy 12
+  m_EditorClassIdentifier: 
+  entityModel: {fileID: 5626585689251608502, guid: 112de8117fcbc024f914b5052713b507, type: 3}
+  difficulty: 2
+  movingSpeed: 10
+  health: 95
+  damage: 25
+  predictAheadOffset: 1
+  pooler: {fileID: 0}
